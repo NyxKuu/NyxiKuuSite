@@ -1,12 +1,13 @@
 body {
     margin: 0;
     background: pink;
-    text-align: center;
+    text-align: justify;
     overflow: hidden;
 }
 
 .animated-text {
     animation: bounce 1s infinite alternate;
+    text-align: center;
 }
 
 @keyframes bounce {
@@ -20,6 +21,7 @@ body {
 
 .rotater {
   animation: rotateAnimation 3s linear infinite;
+  text-align: center;
 }
 
 
