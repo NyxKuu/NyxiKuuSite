@@ -19,7 +19,7 @@ body {
 }
 
 .rotater {
-  animation: rotateAnimation 5s infinite;
+  animation: rotateAnimation 3s linear infinite;
 }
 
 
