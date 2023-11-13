@@ -3,8 +3,6 @@ body {
     background: pink;
     text-align: justify;
     overflow: hidden;
-    border: 100px solid transparent;
-    box-sizing: border-box;
 }
 
 .animated-text {
